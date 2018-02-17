@@ -1,6 +1,6 @@
 # dbinformation
 
-Simple dtabase monitoring library for [node.js][nodejs-url]
+Simple database information library for [node.js][nodejs-url]
 
   [![NPM Version][npm-image]][npm-url]
   [![NPM Downloads][downloads-image]][downloads-url]
